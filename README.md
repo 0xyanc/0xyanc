@@ -21,9 +21,8 @@
   <img alt="Chakra UI" src="https://img.shields.io/badge/chakra-%2320232a?style=flat&logo=chakra-ui"/>
   <img alt="Chai JS" src="https://img.shields.io/badge/chai-white?style=flat&logo=chai&logoColor=red"/>
   <img alt="Ethers.js" src="https://img.shields.io/badge/ethers.js-blue?style=flat&logo=ethers.js"/>
-  
-  
-  
+  <img alt="wagmi.sh" src="https://img.shields.io/badge/wagmi.sh-black?style=flat&logo=wagmi.sh"/>
+  <img alt="rainbowkit" src="https://img.shields.io/badge/rainbowkit-blue?style=flat&logo=rainbowkit.sh"/>
 </p>
 <!--
 **0xyanc/0xyanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
