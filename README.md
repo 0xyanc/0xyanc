@@ -10,6 +10,12 @@
   </a>
 </div>
 
+## My projects
+
+- [Snowfall](https://github.com/0xyanc/snowfall) Staking DApp focused on yield farming, presented to Alyra jury
+- [Illuviscan](https://github.com/0xyanc/illuviscan) Full frontend analytics website dedicated to Illuvium staking
+
+
 ## Skills
 ### 👨‍💻 Programming languages
 <p>
