@@ -23,7 +23,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-blue.svg?logo=typescript&logoColor=white">
   
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white%22">
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white%22">
   <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
 </p>
 <!-- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Solidity" src="https://img.shields.io/badge/solidity%20-%231b1b1b.svg?&style=for-the-badge&logo=Solidity&logoColor=636363"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
