@@ -14,7 +14,9 @@
 
 - [ODCA](https://github.com/0xyanc/qyp-dca) DCA DApp built on Gridex at the PBW 2023 Hackathon 
 - [Snowfall](https://github.com/0xyanc/snowfall) Staking DApp focused on yield farming, presented to Alyra jury
-- [Illuviscan](https://github.com/0xyanc/illuviscan) Full frontend analytics website dedicated to Illuvium staking
+- [Illuviscan](https://github.com/0xyanc/illuviscan) Analytics website dedicated to Illuvium staking
+- [GdxMaker](https://github.com/0xyanc/makerordergdx) Interface to interact with Gridex
+- [CryptoFolia](https://github.com/0xyanc/cryptofolia-frontend) Frontend for CryptoFolia, built at ETHZurich Hackathon
 
 
 ## Skills
