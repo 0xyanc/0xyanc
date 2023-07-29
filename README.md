@@ -18,6 +18,7 @@
 - [GdxMaker](https://github.com/0xyanc/makerordergdx) Interface to interact with Gridex
 - [CryptoFolia](https://github.com/0xyanc/cryptofolia-frontend) Frontend for CryptoFolia, built at ETHZurich Hackathon
 - [Lenssion](https://github.com/0xyanc/lenssion) EthGlobal Lisbon 2023, project built on ERC-6551 (Token Bound Accounts)
+- [Sybil Resistant DAO](https://ethglobal.com/showcase/sybil-resistant-dao-u3qsc) EthGlobal Paris 2023
 
 
 ## Skills
